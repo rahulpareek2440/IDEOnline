@@ -13,7 +13,7 @@
             <div>
                 <label for="lang">Select Language:</label>
                 <select name="lang" id="lang">
-                    <option value="7    ">Ada (gnat-4.3.2)</option>
+                    <option value="7">Ada (gnat-4.3.2)</option>
                     <option value="13">Assembler (nasm-2.07)</option>
                     <option value="45">Assembler (gcc-4.3.4)</option>
                     <option value="104">AWK (gawk) (gawk-3.1.6)</option>
@@ -98,7 +98,7 @@
         </div>
         
         <div id="footer">
-            Written by: <a href="http://tareq.wedevs.com">Tareq Hasan</a> <br> Using <a href="http://ideone.com">Ideone API</a> &copy;
+            Written by: <a href="http://www.rahulpareek.tk">Rahul Pareek</a> <br> Using <a href="http://ideone.com">Ideone API</a> &copy;
 by <a href="http://sphere-research.com">Sphere Research Labs</a>
         </div>
     </div>

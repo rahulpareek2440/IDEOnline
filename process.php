@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 
-$user = 'tareq';
+$user = 'rahul';
 $pass = '';
 $code = '';
 $input = '';
